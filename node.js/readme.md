@@ -49,6 +49,7 @@
 ------
 
 ![图片](https://cn.vuejs.org/images/xiaozhuanlan-sidebar.png "vue.js")
+
 [第二张图片]:https://cn.vuejs.org/images/xiaozhuanlan-sidebar.png "vue.js"
 
 <!-- [baidu][http://www.baidu.com] "百度" -->
